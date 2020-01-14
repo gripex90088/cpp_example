@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/tcpServer.dir/tcpServer.cpp.o  -o tcpServer 

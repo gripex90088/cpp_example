@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a28cca2b-41aa-44e0-9cd8-53bf395e1736" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/muduo/.clang-tidy" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/.clang-tidy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/.github/issue_template.md" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/.github/issue_template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/BUILD.bazel" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/BUILD.bazel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/ChangeLog" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/ChangeLog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/ChangeLog2" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/ChangeLog2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/License" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/License" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/README" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/WORKSPACE" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/WORKSPACE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/contrib/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/contrib/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/contrib/hiredis/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/contrib/hiredis/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/contrib/hiredis/Hiredis.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/contrib/hiredis/Hiredis.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/contrib/hiredis/Hiredis.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/contrib/hiredis/Hiredis.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/contrib/hiredis/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/contrib/hiredis/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/contrib/hiredis/mrediscli.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/contrib/hiredis/mrediscli.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/contrib/thrift/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/contrib/thrift/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/contrib/thrift/ThriftConnection.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/contrib/thrift/ThriftConnection.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/contrib/thrift/ThriftConnection.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/contrib/thrift/ThriftConnection.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/contrib/thrift/ThriftServer.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/contrib/thrift/ThriftServer.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/contrib/thrift/ThriftServer.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/contrib/thrift/ThriftServer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/contrib/thrift/tests/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/contrib/thrift/tests/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/contrib/thrift/tests/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/contrib/thrift/tests/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/contrib/thrift/tests/echo/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/contrib/thrift/tests/echo/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/contrib/thrift/tests/echo/EchoServer.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/contrib/thrift/tests/echo/EchoServer.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/contrib/thrift/tests/echo/echo.thrift" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/contrib/thrift/tests/echo/echo.thrift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/contrib/thrift/tests/echo/echoclient.py" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/contrib/thrift/tests/echo/echoclient.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/contrib/thrift/tests/ping/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/contrib/thrift/tests/ping/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/contrib/thrift/tests/ping/PingServer.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/contrib/thrift/tests/ping/PingServer.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/contrib/thrift/tests/ping/ping.thrift" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/contrib/thrift/tests/ping/ping.thrift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/contrib/thrift/tests/ping/pingclient.py" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/contrib/thrift/tests/ping/pingclient.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/ace/logging/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/ace/logging/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/ace/logging/client.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/ace/logging/client.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/ace/logging/logrecord.proto" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/ace/logging/logrecord.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/ace/logging/server.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/ace/logging/server.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/ace/ttcp/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/ace/ttcp/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/ace/ttcp/common.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/ace/ttcp/common.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/ace/ttcp/common.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/ace/ttcp/common.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/ace/ttcp/main.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/ace/ttcp/main.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/ace/ttcp/ttcp.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/ace/ttcp/ttcp.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/ace/ttcp/ttcp_asio_async.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/ace/ttcp/ttcp_asio_async.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/ace/ttcp/ttcp_asio_sync.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/ace/ttcp/ttcp_asio_sync.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/ace/ttcp/ttcp_blocking.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/ace/ttcp/ttcp_blocking.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/asio/chat/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/asio/chat/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/asio/chat/client.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/asio/chat/client.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/asio/chat/codec.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/asio/chat/codec.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/asio/chat/loadtest.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/asio/chat/loadtest.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/asio/chat/server.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/asio/chat/server.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/asio/chat/server_threaded.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/asio/chat/server_threaded.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/asio/chat/server_threaded_efficient.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/asio/chat/server_threaded_efficient.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/asio/chat/server_threaded_highperformance.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/asio/chat/server_threaded_highperformance.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/asio/echo_see_simple" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/asio/echo_see_simple" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/asio/tutorial/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/asio/tutorial/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/asio/tutorial/daytime_see_simple" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/asio/tutorial/daytime_see_simple" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/asio/tutorial/there_is_no_timer1" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/asio/tutorial/there_is_no_timer1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/asio/tutorial/timer2/timer.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/asio/tutorial/timer2/timer.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/asio/tutorial/timer3/timer.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/asio/tutorial/timer3/timer.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/asio/tutorial/timer4/timer.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/asio/tutorial/timer4/timer.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/asio/tutorial/timer5/timer.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/asio/tutorial/timer5/timer.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/asio/tutorial/timer6/timer.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/asio/tutorial/timer6/timer.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/cdns/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/cdns/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/cdns/Resolver.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/cdns/Resolver.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/cdns/Resolver.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/cdns/Resolver.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/cdns/dns.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/cdns/dns.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/curl/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/curl/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/curl/Curl.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/curl/Curl.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/curl/Curl.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/curl/Curl.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/curl/README" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/curl/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/curl/download.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/curl/download.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/curl/mcurl.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/curl/mcurl.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/fastcgi/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/fastcgi/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/fastcgi/fastcgi.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/fastcgi/fastcgi.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/fastcgi/fastcgi.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/fastcgi/fastcgi.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/fastcgi/fastcgi_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/fastcgi/fastcgi_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/fastcgi/nginx.conf" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/fastcgi/nginx.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/filetransfer/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/filetransfer/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/filetransfer/download.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/filetransfer/download.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/filetransfer/download2.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/filetransfer/download2.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/filetransfer/download3.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/filetransfer/download3.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/filetransfer/loadtest/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/filetransfer/loadtest/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/filetransfer/loadtest/Handler.java" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/filetransfer/loadtest/Handler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/hub/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/hub/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/hub/README" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/hub/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/hub/codec.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/hub/codec.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/hub/codec.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/hub/codec.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/hub/hub.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/hub/hub.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/hub/pub.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/hub/pub.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/hub/pubsub.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/hub/pubsub.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/hub/pubsub.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/hub/pubsub.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/hub/sub.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/hub/sub.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/idleconnection/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/idleconnection/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/idleconnection/echo.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/idleconnection/echo.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/idleconnection/echo.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/idleconnection/echo.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/idleconnection/main.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/idleconnection/main.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/idleconnection/sortedlist.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/idleconnection/sortedlist.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/maxconnection/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/maxconnection/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/maxconnection/echo.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/maxconnection/echo.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/maxconnection/echo.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/maxconnection/echo.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/maxconnection/main.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/maxconnection/main.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/memcached/README" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/memcached/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/memcached/client/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/memcached/client/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/memcached/client/bench.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/memcached/client/bench.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/memcached/server/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/memcached/server/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/memcached/server/Item.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/memcached/server/Item.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/memcached/server/Item.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/memcached/server/Item.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/memcached/server/MemcacheServer.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/memcached/server/MemcacheServer.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/memcached/server/MemcacheServer.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/memcached/server/MemcacheServer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/memcached/server/Session.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/memcached/server/Session.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/memcached/server/Session.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/memcached/server/Session.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/memcached/server/footprint_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/memcached/server/footprint_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/memcached/server/server.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/memcached/server/server.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/multiplexer/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/multiplexer/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/multiplexer/demux.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/multiplexer/demux.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/multiplexer/harness/src/com/chenshuo/muduo/example/multiplexer/DataEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/multiplexer/harness/src/com/chenshuo/muduo/example/multiplexer/DataEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/multiplexer/harness/src/com/chenshuo/muduo/example/multiplexer/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/multiplexer/harness/src/com/chenshuo/muduo/example/multiplexer/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/multiplexer/harness/src/com/chenshuo/muduo/example/multiplexer/EventQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/multiplexer/harness/src/com/chenshuo/muduo/example/multiplexer/EventQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/multiplexer/harness/src/com/chenshuo/muduo/example/multiplexer/EventSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/multiplexer/harness/src/com/chenshuo/muduo/example/multiplexer/EventSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/multiplexer/harness/src/com/chenshuo/muduo/example/multiplexer/MockBackendServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/multiplexer/harness/src/com/chenshuo/muduo/example/multiplexer/MockBackendServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/multiplexer/harness/src/com/chenshuo/muduo/example/multiplexer/MockClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/multiplexer/harness/src/com/chenshuo/muduo/example/multiplexer/MockClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/multiplexer/harness/src/com/chenshuo/muduo/example/multiplexer/MultiplexerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/multiplexer/harness/src/com/chenshuo/muduo/example/multiplexer/MultiplexerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/multiplexer/harness/src/com/chenshuo/muduo/example/multiplexer/MyCountDownLatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/multiplexer/harness/src/com/chenshuo/muduo/example/multiplexer/MyCountDownLatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/multiplexer/harness/src/com/chenshuo/muduo/example/multiplexer/TestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/multiplexer/harness/src/com/chenshuo/muduo/example/multiplexer/TestCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/multiplexer/harness/src/com/chenshuo/muduo/example/multiplexer/TestFailedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/multiplexer/harness/src/com/chenshuo/muduo/example/multiplexer/TestFailedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/multiplexer/harness/src/com/chenshuo/muduo/example/multiplexer/testcase/TestOneClientBackendSend.java" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/multiplexer/harness/src/com/chenshuo/muduo/example/multiplexer/testcase/TestOneClientBackendSend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/multiplexer/harness/src/com/chenshuo/muduo/example/multiplexer/testcase/TestOneClientBothSend.java" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/multiplexer/harness/src/com/chenshuo/muduo/example/multiplexer/testcase/TestOneClientBothSend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/multiplexer/harness/src/com/chenshuo/muduo/example/multiplexer/testcase/TestOneClientNoData.java" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/multiplexer/harness/src/com/chenshuo/muduo/example/multiplexer/testcase/TestOneClientNoData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/multiplexer/harness/src/com/chenshuo/muduo/example/multiplexer/testcase/TestOneClientSend.java" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/multiplexer/harness/src/com/chenshuo/muduo/example/multiplexer/testcase/TestOneClientSend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/multiplexer/harness/src/com/chenshuo/muduo/example/multiplexer/testcase/TestTwoClients.java" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/multiplexer/harness/src/com/chenshuo/muduo/example/multiplexer/testcase/TestTwoClients.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/multiplexer/multiplexer.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/multiplexer/multiplexer.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/multiplexer/multiplexer_simple.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/multiplexer/multiplexer_simple.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/netty/discard/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/netty/discard/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/netty/discard/client.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/netty/discard/client.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/netty/discard/server.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/netty/discard/server.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/netty/echo/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/netty/echo/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/netty/echo/client.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/netty/echo/client.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/netty/echo/server.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/netty/echo/server.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/netty/echo/server2.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/netty/echo/server2.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/netty/uptime/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/netty/uptime/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/netty/uptime/uptime.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/netty/uptime/uptime.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/pingpong/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/pingpong/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/pingpong/bench.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/pingpong/bench.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/pingpong/client.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/pingpong/client.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/pingpong/server.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/pingpong/server.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/procmon/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/procmon/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/procmon/dummyload.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/procmon/dummyload.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/procmon/plot.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/procmon/plot.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/procmon/plot.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/procmon/plot.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/procmon/plot_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/procmon/plot_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/procmon/procmon.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/procmon/procmon.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/protobuf/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/protobuf/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/protobuf/codec/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/protobuf/codec/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/protobuf/codec/client.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/protobuf/codec/client.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/protobuf/codec/codec.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/protobuf/codec/codec.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/protobuf/codec/codec.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/protobuf/codec/codec.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/protobuf/codec/codec_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/protobuf/codec/codec_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/protobuf/codec/dispatcher.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/protobuf/codec/dispatcher.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/protobuf/codec/dispatcher_lite.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/protobuf/codec/dispatcher_lite.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/protobuf/codec/dispatcher_lite_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/protobuf/codec/dispatcher_lite_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/protobuf/codec/dispatcher_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/protobuf/codec/dispatcher_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/protobuf/codec/query.proto" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/protobuf/codec/query.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/protobuf/codec/server.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/protobuf/codec/server.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/protobuf/resolver/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/protobuf/resolver/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/protobuf/resolver/client.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/protobuf/resolver/client.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/protobuf/resolver/resolver.proto" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/protobuf/resolver/resolver.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/protobuf/resolver/server.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/protobuf/resolver/server.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/protobuf/rpc/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/protobuf/rpc/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/protobuf/rpc/client.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/protobuf/rpc/client.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/protobuf/rpc/server.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/protobuf/rpc/server.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/protobuf/rpc/sudoku.proto" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/protobuf/rpc/sudoku.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/protobuf/rpcbalancer/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/protobuf/rpcbalancer/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/protobuf/rpcbalancer/balancer.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/protobuf/rpcbalancer/balancer.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/protobuf/rpcbalancer/balancer_raw.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/protobuf/rpcbalancer/balancer_raw.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/protobuf/rpcbench/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/protobuf/rpcbench/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/protobuf/rpcbench/client.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/protobuf/rpcbench/client.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/protobuf/rpcbench/echo.proto" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/protobuf/rpcbench/echo.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/protobuf/rpcbench/server.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/protobuf/rpcbench/server.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/roundtrip/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/roundtrip/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/roundtrip/roundtrip.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/roundtrip/roundtrip.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/roundtrip/roundtrip_udp.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/roundtrip/roundtrip_udp.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/shorturl/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/shorturl/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/shorturl/shorturl.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/shorturl/shorturl.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/simple/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/simple/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/simple/allinone/allinone.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/simple/allinone/allinone.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/simple/chargen/chargen.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/simple/chargen/chargen.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/simple/chargen/chargen.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/simple/chargen/chargen.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/simple/chargen/main.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/simple/chargen/main.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/simple/chargenclient/chargenclient.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/simple/chargenclient/chargenclient.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/simple/daytime/daytime.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/simple/daytime/daytime.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/simple/daytime/daytime.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/simple/daytime/daytime.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/simple/daytime/main.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/simple/daytime/main.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/simple/discard/discard.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/simple/discard/discard.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/simple/discard/discard.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/simple/discard/discard.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/simple/discard/main.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/simple/discard/main.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/simple/echo/echo.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/simple/echo/echo.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/simple/echo/echo.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/simple/echo/echo.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/simple/echo/main.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/simple/echo/main.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/simple/time/main.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/simple/time/main.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/simple/time/time.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/simple/time/time.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/simple/time/time.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/simple/time/time.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/simple/timeclient/timeclient.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/simple/timeclient/timeclient.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/socks4a/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/socks4a/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/socks4a/balancer.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/socks4a/balancer.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/socks4a/socks4a.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/socks4a/socks4a.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/socks4a/tcprelay.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/socks4a/tcprelay.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/socks4a/tunnel.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/socks4a/tunnel.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/sudoku/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/sudoku/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/sudoku/batch.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/sudoku/batch.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/sudoku/loadtest.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/sudoku/loadtest.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/sudoku/percentile.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/sudoku/percentile.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/sudoku/pipeline.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/sudoku/pipeline.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/sudoku/server_basic.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/sudoku/server_basic.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/sudoku/server_hybrid.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/sudoku/server_hybrid.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/sudoku/server_multiloop.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/sudoku/server_multiloop.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/sudoku/server_prod.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/sudoku/server_prod.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/sudoku/server_threadpool.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/sudoku/server_threadpool.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/sudoku/stat.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/sudoku/stat.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/sudoku/stat_unittest.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/sudoku/stat_unittest.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/sudoku/sudoku.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/sudoku/sudoku.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/sudoku/sudoku.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/sudoku/sudoku.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/twisted/finger/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/twisted/finger/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/twisted/finger/README" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/twisted/finger/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/twisted/finger/finger01.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/twisted/finger/finger01.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/twisted/finger/finger02.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/twisted/finger/finger02.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/twisted/finger/finger03.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/twisted/finger/finger03.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/twisted/finger/finger04.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/twisted/finger/finger04.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/twisted/finger/finger05.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/twisted/finger/finger05.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/twisted/finger/finger06.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/twisted/finger/finger06.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/twisted/finger/finger07.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/twisted/finger/finger07.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/wordcount/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/wordcount/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/wordcount/README" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/wordcount/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/wordcount/hash.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/wordcount/hash.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/wordcount/hasher.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/wordcount/hasher.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/wordcount/receiver.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/wordcount/receiver.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/zeromq/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/zeromq/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/zeromq/README" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/zeromq/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/zeromq/local_lat.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/zeromq/local_lat.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/examples/zeromq/remote_lat.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/examples/zeromq/remote_lat.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/AsyncLogging.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/AsyncLogging.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/AsyncLogging.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/AsyncLogging.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/Atomic.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/Atomic.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/BUILD.bazel" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/BUILD.bazel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/BlockingQueue.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/BlockingQueue.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/BoundedBlockingQueue.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/BoundedBlockingQueue.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/Condition.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/Condition.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/Condition.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/Condition.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/CountDownLatch.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/CountDownLatch.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/CountDownLatch.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/CountDownLatch.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/CurrentThread.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/CurrentThread.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/CurrentThread.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/CurrentThread.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/Date.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/Date.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/Date.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/Date.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/Exception.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/Exception.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/Exception.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/Exception.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/FileUtil.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/FileUtil.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/FileUtil.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/FileUtil.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/GzipFile.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/GzipFile.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/LogFile.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/LogFile.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/LogFile.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/LogFile.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/LogStream.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/LogStream.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/LogStream.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/LogStream.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/Logging.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/Logging.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/Logging.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/Logging.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/Mutex.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/Mutex.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/ProcessInfo.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/ProcessInfo.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/ProcessInfo.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/ProcessInfo.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/Singleton.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/Singleton.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/StringPiece.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/StringPiece.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/Thread.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/Thread.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/Thread.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/Thread.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/ThreadLocal.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/ThreadLocal.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/ThreadLocalSingleton.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/ThreadLocalSingleton.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/ThreadPool.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/ThreadPool.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/ThreadPool.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/ThreadPool.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/TimeZone.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/TimeZone.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/TimeZone.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/TimeZone.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/Timestamp.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/Timestamp.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/Timestamp.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/Timestamp.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/Types.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/Types.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/WeakCallback.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/WeakCallback.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/copyable.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/copyable.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/noncopyable.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/noncopyable.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/tests/AsyncLogging_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/tests/AsyncLogging_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/tests/Atomic_unittest.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/tests/Atomic_unittest.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/tests/BlockingQueue_bench.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/tests/BlockingQueue_bench.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/tests/BlockingQueue_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/tests/BlockingQueue_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/tests/BoundedBlockingQueue_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/tests/BoundedBlockingQueue_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/tests/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/tests/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/tests/Date_unittest.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/tests/Date_unittest.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/tests/Exception_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/tests/Exception_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/tests/FileUtil_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/tests/FileUtil_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/tests/Fork_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/tests/Fork_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/tests/GzipFile_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/tests/GzipFile_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/tests/LogFile_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/tests/LogFile_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/tests/LogStream_bench.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/tests/LogStream_bench.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/tests/LogStream_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/tests/LogStream_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/tests/Logging_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/tests/Logging_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/tests/Mutex_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/tests/Mutex_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/tests/ProcessInfo_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/tests/ProcessInfo_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/tests/SingletonThreadLocal_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/tests/SingletonThreadLocal_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/tests/Singleton_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/tests/Singleton_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/tests/ThreadLocalSingleton_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/tests/ThreadLocalSingleton_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/tests/ThreadLocal_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/tests/ThreadLocal_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/tests/ThreadPool_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/tests/ThreadPool_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/tests/Thread_bench.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/tests/Thread_bench.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/tests/Thread_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/tests/Thread_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/tests/TimeZone_unittest.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/tests/TimeZone_unittest.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/base/tests/Timestamp_unittest.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/base/tests/Timestamp_unittest.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/Acceptor.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/Acceptor.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/Acceptor.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/Acceptor.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/BUILD.bazel" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/BUILD.bazel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/Buffer.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/Buffer.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/Buffer.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/Buffer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/Callbacks.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/Callbacks.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/Channel.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/Channel.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/Channel.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/Channel.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/Connector.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/Connector.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/Connector.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/Connector.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/Endian.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/Endian.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/EventLoop.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/EventLoop.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/EventLoop.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/EventLoop.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/EventLoopThread.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/EventLoopThread.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/EventLoopThread.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/EventLoopThread.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/EventLoopThreadPool.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/EventLoopThreadPool.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/EventLoopThreadPool.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/EventLoopThreadPool.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/InetAddress.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/InetAddress.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/InetAddress.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/InetAddress.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/Poller.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/Poller.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/Poller.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/Poller.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/Socket.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/Socket.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/Socket.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/Socket.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/SocketsOps.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/SocketsOps.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/SocketsOps.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/SocketsOps.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/TcpClient.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/TcpClient.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/TcpClient.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/TcpClient.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/TcpConnection.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/TcpConnection.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/TcpConnection.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/TcpConnection.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/TcpServer.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/TcpServer.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/TcpServer.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/TcpServer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/Timer.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/Timer.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/Timer.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/Timer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/TimerId.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/TimerId.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/TimerQueue.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/TimerQueue.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/TimerQueue.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/TimerQueue.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/ZlibStream.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/ZlibStream.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/boilerplate.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/boilerplate.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/boilerplate.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/boilerplate.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/http/BUILD.bazel" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/http/BUILD.bazel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/http/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/http/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/http/HttpContext.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/http/HttpContext.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/http/HttpContext.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/http/HttpContext.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/http/HttpRequest.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/http/HttpRequest.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/http/HttpResponse.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/http/HttpResponse.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/http/HttpResponse.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/http/HttpResponse.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/http/HttpServer.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/http/HttpServer.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/http/HttpServer.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/http/HttpServer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/http/tests/HttpRequest_unittest.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/http/tests/HttpRequest_unittest.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/http/tests/HttpServer_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/http/tests/HttpServer_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/inspect/BUILD.bazel" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/inspect/BUILD.bazel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/inspect/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/inspect/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/inspect/Inspector.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/inspect/Inspector.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/inspect/Inspector.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/inspect/Inspector.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/inspect/PerformanceInspector.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/inspect/PerformanceInspector.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/inspect/PerformanceInspector.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/inspect/PerformanceInspector.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/inspect/ProcessInspector.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/inspect/ProcessInspector.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/inspect/ProcessInspector.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/inspect/ProcessInspector.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/inspect/SystemInspector.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/inspect/SystemInspector.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/inspect/SystemInspector.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/inspect/SystemInspector.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/inspect/tests/BUILD.bazel" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/inspect/tests/BUILD.bazel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/inspect/tests/Inspector_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/inspect/tests/Inspector_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/poller/DefaultPoller.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/poller/DefaultPoller.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/poller/EPollPoller.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/poller/EPollPoller.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/poller/EPollPoller.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/poller/EPollPoller.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/poller/PollPoller.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/poller/PollPoller.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/poller/PollPoller.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/poller/PollPoller.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/protobuf/BufferStream.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/protobuf/BufferStream.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/protobuf/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/protobuf/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/protobuf/ProtobufCodecLite.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/protobuf/ProtobufCodecLite.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/protobuf/ProtobufCodecLite.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/protobuf/ProtobufCodecLite.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/protorpc/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/protorpc/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/protorpc/README" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/protorpc/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/protorpc/RpcChannel.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/protorpc/RpcChannel.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/protorpc/RpcChannel.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/protorpc/RpcChannel.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/protorpc/RpcCodec.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/protorpc/RpcCodec.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/protorpc/RpcCodec.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/protorpc/RpcCodec.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/protorpc/RpcCodec_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/protorpc/RpcCodec_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/protorpc/RpcServer.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/protorpc/RpcServer.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/protorpc/RpcServer.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/protorpc/RpcServer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/protorpc/google-inl.h" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/protorpc/google-inl.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/protorpc/rpc.proto" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/protorpc/rpc.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/protorpc/rpcservice.proto" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/protorpc/rpcservice.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/tests/Buffer_unittest.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/tests/Buffer_unittest.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/tests/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/tests/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/tests/Channel_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/tests/Channel_test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/tests/EchoClient_unittest.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/tests/EchoClient_unittest.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/tests/EchoServer_unittest.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/tests/EchoServer_unittest.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/tests/EventLoopThreadPool_unittest.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/tests/EventLoopThreadPool_unittest.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/tests/EventLoopThread_unittest.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/tests/EventLoopThread_unittest.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/tests/EventLoop_unittest.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/tests/EventLoop_unittest.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/tests/InetAddress_unittest.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/tests/InetAddress_unittest.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/tests/TcpClient_reg1.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/tests/TcpClient_reg1.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/tests/TcpClient_reg2.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/tests/TcpClient_reg2.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/tests/TcpClient_reg3.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/tests/TcpClient_reg3.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/tests/TimerQueue_unittest.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/tests/TimerQueue_unittest.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/muduo/net/tests/ZlibStream_unittest.cc" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/muduo/net/tests/ZlibStream_unittest.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/patches/MacOSX.diff" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/patches/MacOSX.diff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/patches/armlinux.diff" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/patches/armlinux.diff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muduo/patches/backport.diff" beforeDir="false" afterPath="$PROJECT_DIR$/muduo/patches/backport.diff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/bench/latency.cc" beforeDir="false" afterPath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/bench/latency.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/bench/throughput.cc" beforeDir="false" afterPath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/bench/throughput.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/cmake/DownloadFXdiv.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/cmake/DownloadFXdiv.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/cmake/DownloadGoogleBenchmark.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/cmake/DownloadGoogleBenchmark.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/cmake/DownloadGoogleTest.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/cmake/DownloadGoogleTest.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/confu.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/confu.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/examples/addition.c" beforeDir="false" afterPath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/examples/addition.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/include/pthreadpool.h" beforeDir="false" afterPath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/include/pthreadpool.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/jni/Android.mk" beforeDir="false" afterPath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/jni/Android.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/jni/Application.mk" beforeDir="false" afterPath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/jni/Application.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/src/threadpool-pthreads.c" beforeDir="false" afterPath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/src/threadpool-pthreads.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/src/threadpool-shim.c" beforeDir="false" afterPath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/src/threadpool-shim.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/test/pthreadpool.cc" beforeDir="false" afterPath="$PROJECT_DIR$/pthreadpool/pthreadpool@73/test/pthreadpool.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pthreadpool/pthreadpool_oop/.cproject" beforeDir="false" afterPath="$PROJECT_DIR$/pthreadpool/pthreadpool_oop/.cproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pthreadpool/pthreadpool_oop/.project" beforeDir="false" afterPath="$PROJECT_DIR$/pthreadpool/pthreadpool_oop/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pthreadpool/pthreadpool_oop/.settings/language.settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pthreadpool/pthreadpool_oop/.settings/language.settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pthreadpool/pthreadpool_oop/Debug/makefile" beforeDir="false" afterPath="$PROJECT_DIR$/pthreadpool/pthreadpool_oop/Debug/makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pthreadpool/pthreadpool_oop/Debug/objects.mk" beforeDir="false" afterPath="$PROJECT_DIR$/pthreadpool/pthreadpool_oop/Debug/objects.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pthreadpool/pthreadpool_oop/Debug/sources.mk" beforeDir="false" afterPath="$PROJECT_DIR$/pthreadpool/pthreadpool_oop/Debug/sources.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pthreadpool/pthreadpool_oop/Debug/subdir.mk" beforeDir="false" afterPath="$PROJECT_DIR$/pthreadpool/pthreadpool_oop/Debug/subdir.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pthreadpool/pthreadpool_oop/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pthreadpool/pthreadpool_oop/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pthreadpool/pthreadpool_oop/ctask.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/pthreadpool/pthreadpool_oop/ctask.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pthreadpool/pthreadpool_oop/ctask.h" beforeDir="false" afterPath="$PROJECT_DIR$/pthreadpool/pthreadpool_oop/ctask.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pthreadpool/pthreadpool_oop/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/pthreadpool/pthreadpool_oop/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pthreadpool/pthreadpool_oop/mytask.h" beforeDir="false" afterPath="$PROJECT_DIR$/pthreadpool/pthreadpool_oop/mytask.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pthreadpool/pthreadpool_oop/threadpool.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/pthreadpool/pthreadpool_oop/threadpool.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pthreadpool/pthreadpool_oop/threadpool.h" beforeDir="false" afterPath="$PROJECT_DIR$/pthreadpool/pthreadpool_oop/threadpool.h" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/linux_unix_programming_manual" />
+  </component>
+  <component name="ProjectId" id="1TUoKvAnZHlXmhIKz5nW0mq1Cus" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/json_cpp" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a28cca2b-41aa-44e0-9cd8-53bf395e1736" name="Default Changelist" comment="" />
+      <created>1573523974696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573523974696</updated>
+      <workItem from="1573523978011" duration="98000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

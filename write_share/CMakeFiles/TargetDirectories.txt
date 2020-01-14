@@ -1,0 +1,3 @@
+/home/debian/Cprojects/write_share/CMakeFiles/rebuild_cache.dir
+/home/debian/Cprojects/write_share/CMakeFiles/write_share.dir
+/home/debian/Cprojects/write_share/CMakeFiles/edit_cache.dir

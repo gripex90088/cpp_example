@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/math_operation.dir/main.cpp.o  -o math_operation 

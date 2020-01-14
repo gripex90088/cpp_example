@@ -1,0 +1,3 @@
+/home/debian/Cprojects/thread_lock/CMakeFiles/rebuild_cache.dir
+/home/debian/Cprojects/thread_lock/CMakeFiles/thread_lock.dir
+/home/debian/Cprojects/thread_lock/CMakeFiles/edit_cache.dir

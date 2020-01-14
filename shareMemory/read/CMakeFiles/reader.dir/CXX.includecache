@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/debian/Cprojects/shareMemory/read/reader.cpp
+iostream
+-
+cstdio
+-
+sys/shm.h
+-
+vector
+-
+map
+-
+cstring
+-
+string
+-
+

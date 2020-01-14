@@ -1,0 +1,3 @@
+/home/debian/Cprojects/mongoose_http_message/build/CMakeFiles/rebuild_cache.dir
+/home/debian/Cprojects/mongoose_http_message/build/CMakeFiles/mongoose_http_message.dir
+/home/debian/Cprojects/mongoose_http_message/build/CMakeFiles/edit_cache.dir

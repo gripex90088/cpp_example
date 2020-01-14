@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/easyTcp.dir/baseTcpServer.c.o  -o easyTcp 

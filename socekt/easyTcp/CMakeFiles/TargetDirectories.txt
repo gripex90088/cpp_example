@@ -1,0 +1,3 @@
+/home/xuxing/projects/socekt/easyTcp/CMakeFiles/rebuild_cache.dir
+/home/xuxing/projects/socekt/easyTcp/CMakeFiles/easyTcp.dir
+/home/xuxing/projects/socekt/easyTcp/CMakeFiles/edit_cache.dir

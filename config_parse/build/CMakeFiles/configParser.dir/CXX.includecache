@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/parse_conf.h
+
+../inc/qstring.h
+
+/home/xuxing/projects/cpp_example/config_parse/src/main.cpp
+iostream
+-
+parse_conf.h
+/home/xuxing/projects/cpp_example/config_parse/src/parse_conf.h
+
+/home/xuxing/projects/cpp_example/config_parse/src/parse_conf.cpp
+cstdio
+-
+cstdlib
+-
+cstring
+-
+parse_conf.h
+/home/xuxing/projects/cpp_example/config_parse/src/parse_conf.h
+qstring.h
+/home/xuxing/projects/cpp_example/config_parse/src/qstring.h
+
+/home/xuxing/projects/cpp_example/config_parse/src/qstring.cpp
+sys/types.h
+-
+string.h
+-
+cctype
+-
+malloc.h
+-
+qstring.h
+/home/xuxing/projects/cpp_example/config_parse/src/qstring.h
+

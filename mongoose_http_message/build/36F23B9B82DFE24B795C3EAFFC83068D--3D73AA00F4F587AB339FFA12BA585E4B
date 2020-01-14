@@ -1,0 +1,11 @@
+{
+	"bucket" : "classrvideo",
+	"filePath" : "test_111.mp4",
+	"key" : "test/test_111.mp4",
+	"md5Sum" : "CCE928CFC3062930346074011F71AC56",
+	"mtime" : "Sat, 07 Dec 2019 02:20:34 GMT",
+	"opType" : "ResumableUpload",
+	"partSize" : 8388608,
+	"size" : 21041255,
+	"uploadID" : "DFA291440D794FA2A734FB8184831AE6"
+}

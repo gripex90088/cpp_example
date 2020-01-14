@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/debian/Cprojects/write_share/main.cpp
+iostream
+-
+unistd.h
+-
+sys/shm.h
+-
+cstring
+-
+map
+-
+

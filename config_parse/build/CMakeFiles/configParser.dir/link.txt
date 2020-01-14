@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/configParser.dir/src/main.cpp.o CMakeFiles/configParser.dir/src/parse_conf.cpp.o CMakeFiles/configParser.dir/src/qstring.cpp.o  -o configParser 

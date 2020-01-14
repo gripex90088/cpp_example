@@ -1,0 +1,3 @@
+/home/debian/Cprojects/redisclient/CMakeFiles/rebuild_cache.dir
+/home/debian/Cprojects/redisclient/CMakeFiles/redisclient.dir
+/home/debian/Cprojects/redisclient/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/seek_io.dir/home/xuxing/projects/cpp_example/linux_unix_programming_manual/lib/error_functions.c.o CMakeFiles/seek_io.dir/home/xuxing/projects/cpp_example/linux_unix_programming_manual/lib/get_num.c.o CMakeFiles/seek_io.dir/seek_io.c.o  -o seek_io 

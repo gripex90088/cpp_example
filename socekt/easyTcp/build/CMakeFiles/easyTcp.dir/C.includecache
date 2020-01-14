@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xuxing/projects/cpp_example/socekt/easyTcp/baseTcpServer.c
+stdio.h
+-
+stdlib.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+unistd.h
+-
+fcntl.h
+-
+

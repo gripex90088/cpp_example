@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/ccopy.dir/home/xuxing/projects/cpp_example/linux_unix_programming_manual/lib/error_functions.c.o CMakeFiles/ccopy.dir/home/xuxing/projects/cpp_example/linux_unix_programming_manual/lib/get_num.c.o CMakeFiles/ccopy.dir/seek_io.c.o  -o ccopy 

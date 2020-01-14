@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/linux_unix_programming_manual" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/muduo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pthreadpool/pthreadpool@73" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pthreadpool/pthreadpool_oop" vcs="Git" />
+  </component>
+</project>

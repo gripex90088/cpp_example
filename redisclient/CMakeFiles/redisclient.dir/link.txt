@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/redisclient.dir/hiredis.cpp.o  -o redisclient -lhiredis 
