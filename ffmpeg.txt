@@ -1,0 +1,4 @@
+ffmpeg -i "rtsp://admin:admin123@192.168.0.119:3777/cam/playback?channel=114&subtype=0&starttime=2019_12_23_15_20_00&endtime=2019_12_23_15_25_00" -fflags flush_packets -max_delay 1 -an -flags -global_header -hls_time 1 -hls_list_size 3 -hls_flags delete_segments+omit_endlist -vcodec copy -y bbbbb.flv
+
+
+
