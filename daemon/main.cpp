@@ -25,10 +25,7 @@ int main()
         perror("error getcwd");
         exit(1);
     }
-    
 
-
-    
     of << filepath << std::endl;
     std::cout << filepath << std::endl;
     

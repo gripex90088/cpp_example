@@ -10,6 +10,5 @@ int main() {
     rate = ((float)current_fps / (float)fps) * 100;
     cout <<  rate << endl;
 
-    std::cout << "Hello, World!" << std::endl;
     return 0;
 }

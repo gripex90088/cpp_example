@@ -27,12 +27,9 @@ int main()
     strftime(buf, sizeof(buf), "%F %X", local_time);
     cout << buf << endl;
 
-
     char buf1[50];
     sprintf(buf1, "%ld", t_stamp);
     cout << buf1 << endl;
-    
-    
     
     string tim;
     getTimeStampStr(&tim);
